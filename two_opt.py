@@ -11,7 +11,7 @@ def two_opt_swap(path, i, k):
 
 # calculates distance in a given path
 def calculate_distance(path, cities):
-    distance = 0
+    distance = 0 
     prevCity = path[0]
 
     for city in path[1:]:
