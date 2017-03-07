@@ -1,6 +1,6 @@
 import json
 
-# reverses all elements from path[i] to path[i+k] 
+# reverses all elements from path[i] to path[i+k]  
 # example:
 # route = ['MA', 'N', 'M', 'UL', 'RV', 'Z', 'BE']  
 # two_opt_swap(route, 1, 3)
